@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\sphereScript.cs">
+    <Files>
+      <File FileName="Assets\shizaScript.cs" Line="13" Column="64" />
+      <File FileName="Assets\sphereScript.cs" Line="18" Column="3" />
+      <File FileName="Assets\cameraScript.cs" Line="9" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
